@@ -34,6 +34,7 @@
     "compression": "^1.7.4",
     "connect-redis": "^7.1.1",
     "domomaker": "file:",
+    "dotenv": "^16.5.0",
     "express": "^4.19.2",
     "express-handlebars": "^7.1.2",
     "express-session": "^1.18.0",
